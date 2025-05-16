@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+  <meta name="keywords" content="ENLSP2023, ENLSP III, enlsp iii, NLP, KD, knowledge distillation, workshop,natural language processing, deep learning, machine learning, neurips workshop, neurips workshop 2023, model compression, Efficient Natural Language and Speech Processing,tinyML,BERT,tinyBERT,roberta,distilRoberta,distilBERT,knowledge transfer,efficient knowledge transfer,speech,pre-trained language models,language models,GPT,GPT compression,optimization,speech processing,speech optimization,Multi-domain training,fast pre-training,multimodal,Efficient Training,Data Efficiency,Edge Intelligence,zero-shot learning,few-shot learning,data augumentation,NEURIPS,neurips 2023, NIPS">
+  <meta name="google-site-verification" content="2FYQh4GH2FAIelCcPu2MkMhMqFo76u69G5uxcopfuC8" /><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>ENLSP NeurIPS Workshop 2024 | ENLSP highlights some fundamental problems in NLP and speech processing related to efficiency of the models, training and inference for the general ML and DL communities.</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="ENLSP NeurIPS Workshop 2024" />
+<meta name="author" content="ENLSP NeurIPS Workshop 2024" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="ENLSP highlights some fundamental problems in NLP and speech processing related to efficiency of the models, training and inference for the general ML and DL communities." />
+<meta property="og:description" content="ENLSP highlights some fundamental problems in NLP and speech processing related to efficiency of the models, training and inference for the general ML and DL communities." />
+<link rel="canonical" href="http://localhost:4000/accepted_papers.html" />
+<meta property="og:url" content="http://localhost:4000/accepted_papers.html" />
+<meta property="og:site_name" content="ENLSP NeurIPS Workshop 2024" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="ENLSP NeurIPS Workshop 2024" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"ENLSP NeurIPS Workshop 2024"},"description":"ENLSP highlights some fundamental problems in NLP and speech processing related to efficiency of the models, training and inference for the general ML and DL communities.","headline":"ENLSP NeurIPS Workshop 2024","url":"http://localhost:4000/accepted_papers.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="ENLSP NeurIPS Workshop 2024" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap" rel="stylesheet">
+</head>
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-95HXS679NK"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-95HXS679NK');
+    </script>
+  </head>
+  
+  <body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">ENLSP 2024</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		
+        
+            
+            
+            
+				<li class="nav-item">
+				  <a class="nav-link text-nowrap " aria-current="page" href="/index.html">Home</a>
+				</li>
+            
+        
+            
+            
+            
+				<li class="nav-item">
+				  <a class="nav-link text-nowrap " aria-current="page" href="/index.html#call_for_papers">Call for papers</a>
+				</li>
+            
+        
+            
+            
+            
+				<li class="nav-item">
+				  <a class="nav-link text-nowrap " aria-current="page" href="/index.html#organizers">Organizers</a>
+				</li>
+            
+        
+            
+            
+            
+				<li class="nav-item">
+				  <a class="nav-link text-nowrap " aria-current="page" href="/index.html#speakers">Speakers</a>
+				</li>
+            
+        
+            
+            
+            
+				<li class="nav-item">
+				  <a class="nav-link text-nowrap " aria-current="page" href="/index.html#schedule">Schedule</a>
+				</li>
+            
+        
+            
+            
+            
+				<li class="nav-item">
+				  <a class="nav-link text-nowrap " aria-current="page" href="/index.html#technical_committee">Technical committee</a>
+				</li>
+            
+        
+            
+            
+            
+				<li class="nav-item">
+				  <a class="nav-link text-nowrap active" aria-current="page" href="/accepted_papers.html">Accepted papers</a>
+				</li>
+            
+         
+      </ul>
+    </div>
+  </div>
+</nav>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="home">
+<script>
+$("#pop").on("click", function() {
+   $('#imagepreview').attr('src', $('#imageresource').attr('src')); // here asign the image to the modal when the user click the enlarge link
+   $('#imagemodal').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
+});
+$("body").on("keyup", function(event){
+	console.log(event);
+});
+function display_poster(paper_id){
+	var modal = document.getElementById("myModal");
+	var modalImg = document.getElementById("img01");
+	modal.style.display = "block";
+	modalImg.src = "/images/posters/"+paper_id+".png";
+}
+function close_modal() { 
+	var modal = document.getElementById("myModal");
+	modal.style.display = "none";
+}
+function keyup_modal(e){
+	console.log(e.key);
+	if(e.key=="Escape"){
+		var modal = document.getElementById("myModal");
+		modal.style.display = "none";
+	}
+}
+</script>
+<style>
+.img2zoom:hover{
+  cursor: zoom-in;
+  transition: 0.3s;
+}
+
+.img2zoom:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.our-modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.our-modal-content {
+  margin: auto;
+  display: block;
+  width: auto;
+  height:90%;
+  max-width: 800px;
+}
+
+
+/* Add Animation */
+.our-modal-content {  
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {-webkit-transform:scale(0)} 
+  to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.our-close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.our-close:hover,
+.our-close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .our-modal-content {
+    width: 100%;
+  }
+}
+</style>
+
+<div id="myModal" class="our-modal" onkeyup="keyup_modal(event)">
+  <span class="our-close" onclick="close_modal()">&times;</span>
+  <img class="our-modal-content" id="img01">
+</div>
+
+
+<div class="modal fade" id="paper_1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-body">
+				<b>Title:</b> Snakes and Ladders: Accelerating State Space Model Inference with Speculative Decoding
+				<br>
+				<b>Authors:</b><p class="par_panel_perso">Yangchao Wu1, Yonatan Dukler2, Matthew Trager, Wei Xia, Alessandro Achille, Stefano Soatto</p>
+				<b>Abstract:</b><p class="par_panel_perso">Speculative decoding is a method for accelerating inference in large language models (LLMs) by predicting multiple tokens using a smaller ‘draft model’ and validating them against the larger ‘base model.’ If a draft token is inconsistent with what the base model would have generated, speculative decoding ‘backtracks’ to the last consistent token before resuming generation. This is straightforward in autoregressive Transformer architectures since their state is a sliding window of past tokens. However, their baseline inference complexity is quadratic in the number of input tokens. State Space Models (SSMs) have linear inference complexity, but they maintain a separate Markov state that makes backtracking non-trivial. We propose two methods to perform speculative decoding in SSMs: “Joint Attainment and Advancement” and “Activation Replay.” Both methods utilize idle computational resources to speculate and verify multiple tokens, allowing us to produce 6 tokens for 1.47⇥ the cost of one, corresponding to an average 1.82⇥ wall-clock speed-up on three different benchmarks using a simple n-gram for drafting. Furthermore, as model size increases, relative overhead of speculation and verification decreases: Scaling from 1.3B parameters to 13B reduces relative overhead from 1.98⇥ to 1.22⇥. Unlike Transformers, speculative decoding in SSMs can be easily applied to batches of sequences, allowing dynamic allocation of resources to fill gaps in compute utilization and thereby improving efficiency and throughput with variable inference traffic.</p>
+			</div>
+			<div class="modal-footer">
+				<a href="/papers/paper_1.pdf" download class="btn btn-primary active" aria-current="page">Paper</a>
+			        
+			          <a href="/papers/paper_1_supp.pdf" download class="btn btn-primary active" aria-current="page">Supplementary Material</a>
+			        
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade" id="paper_2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-body">
+				<b>Title:</b> AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability
+				<br>
+				<b>Authors:</b><p class="par_panel_perso">Sudhanshu Agrawal, Wonseok Jeon, Mingu Lee</p>
+				<b>Abstract:</b><p class="par_panel_perso">Speculative decoding is a powerful technique that attempts to circumvent the autoregressive constraint of modern Large Language Models (LLMs). The aim of speculative decoding techniques is to improve the average inference time of a large, target model without sacrificing its accuracy, by using a more efficient draft model to propose draft tokens which are then verified in parallel. The number of draft tokens produced in each drafting round is referred to as the draft length and is often a static hyperparameter chosen based on the acceptance rate statistics of the draft tokens. However, setting a static draft length can negatively impact performance, especially in scenarios where drafting is expensive and there is a high variance in the number of tokens accepted. Adaptive Entropy-based Draft Length (AdaEDL) is a simple, training and parameter-free criteria which allows for early stopping of the token drafting process by approximating a lower bound on the expected acceptance probability of the drafted token based on the currently observed entropy of the drafted logits. We show that AdaEDL consistently outperforms static draft-length speculative decoding by 10%-57% as well as other training-free draft-stopping techniques by upto 10% in a variety of settings and datasets. At the same time, we show that AdaEDL is more robust than these techniques and preserves performance in high-sampling-temperature scenarios. Since it is training-free, in contrast to techniques that rely on the training of dataset-specific draft-stopping predictors, AdaEDL can seamlessly be integrated into a variety of pre-existing LLM systems.</p>
+			</div>
+			<div class="modal-footer">
+				<a href="/papers/paper_2.pdf" download class="btn btn-primary active" aria-current="page">Paper</a>
+			        
+				  <button type="button" class="btn btn-secondary" disabled>Supplementary Material</button>
+			        
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade" id="paper_3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-body">
+				<b>Title:</b> GEAR: An Efficient Error Reduction Framework for KV Cache Compression in LLM Inference
+				<br>
+				<b>Authors:</b><p class="par_panel_perso">Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao</p>
+				<b>Abstract:</b><p class="par_panel_perso">Key-value (KV) caching has become the de-facto technique to accelerate generation speed for large language models (LLMs) inference. However, the growing cache demand with increasing sequence length has transformed LLM inference to be a memory bound problem, significantly constraining the system throughput. Existing methods rely on dropping unimportant tokens or quantizing entries group-wise. Such methods, however, often incur high approximation errors to represent the compressed matrices. The autoregressive decoding process further compounds the error of each step, resulting in critical deviation in model generation and deterioration of performance. To tackle this challenge, we propose GEAR, an efficient error reduction framework that augments a quantization scheme with two error reduction components and achieves near-lossless performance at high compression ratios. GEAR first applies quantization to majority of entries of similar magnitudes to ultra-low precision. It then employs a low-rank matrix to approximate the quantization error, and a sparse matrix to remedy individual errors from outlier entries. By adeptly integrating three techniques, GEAR is able to fully exploit their synergistic potentials. Our experiments show that GEAR can maintain similar accuracy to that of FP16 cache with improvement up to 24.42% over the SOTA baselines at 2-bit compression. Additionally, compared to LLM inference with FP16 KV cache, GEAR can reduce peak-memory of up to 2.39×, bringing 2.1× ∼ 5.07× throughput improvement. Our code will be publicly available.</p>
+			</div>
+			<div class="modal-footer">
+				<a href="/papers/paper_3.pdf" download class="btn btn-primary active" aria-current="page">Paper</a>
+			        
+				  <button type="button" class="btn btn-secondary" disabled>Supplementary Material</button>
+			        
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<h2>Accepted papers</h2>
+<div class="container">
+	<div class="row">
+	
+	<div class="col-lg-3 mb-3 d-flex align-items-stretch">
+		<div class="card">
+			<img class="img2zoom" src="/images/posters/1.png" class="card-img-top" alt="poster" style="width:auto; height:13vw;" onclick="display_poster(1)">
+			<!--<iframe id="fred" style="border:1px solid #666CCC" title="PDF in an i-Frame" src="https://neurips2023-enlsp.github.io/papers/paper_1.pdf" frameborder="1" scrolling="auto"></iframe>-->
+			<div class="card-body">
+				<h5 class="card-title">Snakes and Ladders: Accelerating State Space Model Inference with Speculative Decoding</h5>
+			</div>
+			<div class="card-footer">
+				<center>
+					<button data-bs-toggle="modal" data-bs-target="#paper_1" class="btn btn-info" style="color:white;"><i class="bi bi-info-circle" style="font-size: 1.1rem;"></i> &nbsp; Read More</button><br><br>
+					<a href="/papers/paper_1.pdf" download class="btn btn-primary active" aria-current="page">Paper</a> &nbsp; 
+				        
+				          <a href="/papers/paper_1_supp.pdf" download class="btn btn-primary active" aria-current="page">Appendix</a>
+				        
+				</center>
+		  	</div>
+		</div>
+	</div>
+	
+	<div class="col-lg-3 mb-3 d-flex align-items-stretch">
+		<div class="card">
+			<img class="img2zoom" src="/images/posters/2.png" class="card-img-top" alt="poster" style="width:auto; height:13vw;" onclick="display_poster(2)">
+			<!--<iframe id="fred" style="border:1px solid #666CCC" title="PDF in an i-Frame" src="https://neurips2023-enlsp.github.io/papers/paper_2.pdf" frameborder="1" scrolling="auto"></iframe>-->
+			<div class="card-body">
+				<h5 class="card-title">AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability</h5>
+			</div>
+			<div class="card-footer">
+				<center>
+					<button data-bs-toggle="modal" data-bs-target="#paper_2" class="btn btn-info" style="color:white;"><i class="bi bi-info-circle" style="font-size: 1.1rem;"></i> &nbsp; Read More</button><br><br>
+					<a href="/papers/paper_2.pdf" download class="btn btn-primary active" aria-current="page">Paper</a> &nbsp; 
+				        
+					  <button type="button" class="btn btn-secondary" disabled>Appendix</button>
+				        
+				</center>
+		  	</div>
+		</div>
+	</div>
+	
+	<div class="col-lg-3 mb-3 d-flex align-items-stretch">
+		<div class="card">
+			<img class="img2zoom" src="/images/posters/3.png" class="card-img-top" alt="poster" style="width:auto; height:13vw;" onclick="display_poster(3)">
+			<!--<iframe id="fred" style="border:1px solid #666CCC" title="PDF in an i-Frame" src="https://neurips2023-enlsp.github.io/papers/paper_3.pdf" frameborder="1" scrolling="auto"></iframe>-->
+			<div class="card-body">
+				<h5 class="card-title">GEAR: An Efficient Error Reduction Framework for KV Cache Compression in LLM Inference</h5>
+			</div>
+			<div class="card-footer">
+				<center>
+					<button data-bs-toggle="modal" data-bs-target="#paper_3" class="btn btn-info" style="color:white;"><i class="bi bi-info-circle" style="font-size: 1.1rem;"></i> &nbsp; Read More</button><br><br>
+					<a href="/papers/paper_3.pdf" download class="btn btn-primary active" aria-current="page">Paper</a> &nbsp; 
+				        
+					  <button type="button" class="btn btn-secondary" disabled>Appendix</button>
+				        
+				</center>
+		  	</div>
+		</div>
+	</div>
+	
+	</div>
+</div>
+
+
+
+  </div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <ul class="contact-list">
+          <li class="p-name">ENLSP NeurIPS Workshop 2024</li>
+          <li><a class="u-email" href="mailto:neurips.ENLSP.2024@gmail.com">neurips.ENLSP.2024@gmail.com</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>ENLSP highlights some fundamental problems in NLP and speech  processing related to efficiency of the models, training and  inference for the general ML and DL communities.
+</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"></ul>
+
+<!-- Sponsors -->
+<!-- <h2 class="par_title" id="sponsors">Our sponsors</h2> -->
+<!--
+<div class="row">
+  <img class="column" src="/images/huawei.jpg">
+    <img class="column" src="/images/darwin_ai.jpg">
+  <img class="column" src="/images/huawei.jpg">
+    <img class="column" src="/images/darwin_ai.jpg">
+</div>--></div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

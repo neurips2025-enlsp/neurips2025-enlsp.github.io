@@ -1,0 +1,18 @@
+- num_row: 1
+  speakers:
+    - title: Dr.
+      name: Marjan Ghazvini Nejad
+      affiliation: Meta
+      photo: MarjanGhazvininejad.jpg
+    - title: Dr.
+      name: Joel Hestness
+      affiliation: Cerebras
+      photo: joelhestness.jpg
+    - title: Dr.
+      name: Navdeep Jaitly
+      affiliation: Apple
+      photo: navdeep-jaitly.jpg
+    - title: Dr.
+      name: Katie Derthick
+      affiliation: Microsoft
+      photo: katie_d.jpg
