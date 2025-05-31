@@ -106,11 +106,10 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <h2 class="blackpar_title">Important Dates:</h2>
 <p>
 <ul>
-	<li><s>Special NeurIPS Fast Track Submission Deadline: <b>September 30, 2024 Anywhere on Earth (AOE)</b></s></li>
-	<li><s>Submission Deadline: September 15, 2024 Anywhere on Earth (AOE)</s> </li>
-	<li><s>Acceptance Notification: <b>October 09, 2024 AOE</b></s></li>
-	<li>Camera-Ready Submission: <b>October 25, 2024 AOE</b> </li>
-	<li>Workshop Date: <b>December 14, 2024 </b></li>
+	<li>Submission Deadline: <b>August 22, 2025, Anywhere on Earth (AOE)</b></li>
+	<li>Acceptance Notification: <b>September 22, 2025 AOE</b></li>
+	<li>Camera-Ready Submission: <b>October 5, 2025 AOE</b> </li>
+	<li>Workshop Date: <b>December 5th or 6th, 2025 </b></li>
 </ul>
 </p>
 
