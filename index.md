@@ -132,46 +132,7 @@ Advancing foundation models requires rethinking efficiency—especially in reaso
 	<li>Benchmarking new architectures, reasoning models, and test-time compute techniques</li>
 	<li>Datasets, benchmarks, and leaderboards for evaluating efficient reasoning language and speech models</li>
 </ul>
- <span class="news-item-icon">📢</span> <b>Special Demo Track: Efficient Reasoning and Test-time Compute</b> This newly introduced track invites demo submissions that showcase working systems, tools, visualizations, or APIs addressing any of the topics above related to efficient reasoning and test-time compute in NLP & Speech.
-
-
-<b>Efficient Architectures</b> Proposing alternative architectures that are more efficient than Transformers (in terms of computational complexity, memory footprint, handling longer sequence lengths ) or modifying Transformer architectures to make them more efficient  
-<ul>
-	<li>Linear and sub-quadratic Transformers , sparse attention Transformers</li>
-	<li>New architures for LLMs and foundation models and their scalability</li>
-	<li>Evaluation and benchmarking of new architectures (fair comparison of different models)</li>
-	<li>Long sequence modeling</li>
-	<li>Dense vs. sparse architectures (MoEs)</li>
-</ul>
-<b>Efficient Training</b> How can we reduce the cost of pre-training or fine-tuning new models?
-<ul>	
-	<li>More efficient pre-training solutions, from better initialization and hyper-parameter tuning to better optimization which lowers the cost of pre-training</li>
-	<li>Parameter efficient fine-tuning  (PEFT) solutions for large pre-trained models</li>
-	<li>Efficient instruction tuning,  prompt engineering and in-context learning</li>
-	<li>Hardware-aware solutions (e.g. better CUDA kernels), memory read/write aware solutions </li>
-	<li>Data-efficient training, reducing the requirement for labeled data, data compression and distillation</li>
-</ul>
-<b>Efficient Inference</b> How can we reduce the cost of inference for LLMs and foundation models?
-<ul>
-	<li>Improved speculative sampling for LLMs, self-speculative sampling, selecting among multiple drafts, one draft model for different heterogeneous target models</li>
-	<li>Neural model compression techniques such as quantization, pruning, and knowledge distillation</li>
-	<li>Improved KV-caching solutions for Transformers</li>
-	<li>Distributed inference of large pre-trained models</li>
-	<li>Serving many target devices with one model, many-in-one models, early exiting, elastic networks</li>
-</ul>
-<b>Evaluation and Benchmarking of Efficient Models</b> Introducing new efficient solutions underscores the need for comprehensive benchmarks to accurately evaluate their efficacy and performance. 
-<ul>
-	<li>Datasets, benchmarks, leaderboards for evaluating efficient models</li>
-	<li>Benchmarking the performance of efficient models from different perspectives such as reasoning, hallucination,  understanding, and generation quality </li>
-	<li>Benchmarking efficiency of models in terms of their memory footprint, training time, inference time, different target hardware devices and inference platforms (e.g. GPU vs. CPU) </li>
-</ul>
-<b>Efficient Solutions in other Modalities and Applications </b> 
-<ul>
-	<li> Efficiency of foundational or pre-trained models in multi-modal set-up and other modalities (beyond NLP and Speech) such as biology, chemistry, computer vision, and time series </li>
-	<li>Efficient representations (e.g. Matryoshka representation) and models in dense retrieval and search</li>
-	<li>Efficient Federated learning, lower communication costs, tackling heterogeneous data and models</li>
-	<li>Efficient graph and LLM joint learning</li>
-</ul>
+ <span class="news-item-icon">📢</span> <b>Special Demo Track: Efficient Reasoning and Test-time Compute</b> This newly introduced track invites demo submissions that showcase working systems, tools, visualizations, or APIs addressing any of the topics above related to efficient reasoning and test-time compute in NLP & Speech.</b>
 
 </p>
 
