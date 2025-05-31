@@ -40,6 +40,39 @@ The workshop provides a unique opportunity to explore emerging challenges in eff
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <p>
+Recent advances in large language models (LLMs) (such as <a href="https://arxiv.org/abs/2412.16720">OpenAI o1</a>, 
+<a href="https://arxiv.org/abs/2501.12948">DeepSeek</a>, 
+<a href="https://cdn.openai.com/gpt-4-5-system-card-2272025.pdf">Gemini 2.5</a>, 
+<a href="https://cdn.openai.com/gpt-4-5-system-card-2272025.pdf">GPT-4.5</a>, 
+<a href="https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct">Llama 3.3</a>, 
+and <a href="https://arxiv.org/abs/2505.09388">Qwen3</a>), 
+alongside traditional speech models (e.g., 
+<a href="https://cdn.openai.com/gpt-4-5-system-card-2272025.pdf">Nvidia NeMo Parakeet-TDT</a>, 
+<a href="https://arxiv.org/abs/2410.15608">Moonshine</a>, 
+<a href="https://arxiv.org/abs/2501.02832">Samba-ASR</a>, 
+<a href="https://arxiv.org/abs/2402.08093">Amazon BASE TTS</a>, 
+<a href="https://arxiv.org/abs/2503.01710">Spark-TTS</a>, 
+<a href="https://arxiv.org/abs/2306.15687">Meta Voicebox</a>, 
+and <a href="https://proceedings.mlr.press/v202/radford23a/radford23a.pdf">Whisper</a>) 
+and modern speech language models (e.g., 
+<a href="https://moshi-ai.com/">Moshi</a>, 
+<a href="https://arxiv.org/abs/2503.20215">Qwen2.5-Omni</a>, 
+and <a href="https://arxiv.org/abs/2310.13289">SALMONN</a>) 
+have significantly transformed the field of AI, powering breakthroughs in code generation, scientific discovery, conversational agents, real-time interactions, multimodal integration and beyond. 
+Generative models have showcased remarkable capabilities in understanding, reasoning, and generating human-like text and speech. 
+More recently, a new paradigm has emerged centered on enhancing reasoning abilities through large-scale reinforcement learning 
+(e.g., <a href="https://arxiv.org/abs/2412.16720">OpenAI O1</a> and <a href="https://arxiv.org/abs/2405.04434">DeepSeek-V2</a>) 
+and by scaling test-time compute 
+<a href="https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute">[Link1]</a>, 
+<a href="https://arxiv.org/abs/2407.21787">[Link2]</a>. 
+Allocating additional compute during inference effectively allows models to “<b>think longer</b>,” thereby improving their reasoning in a manner akin to human deliberation.
+</p>
+<p>
+As large language models (e.g. <a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf">GPT-3</a>, <a href="http://arxiv.org/abs/2303.08774"> GPT-4</a>, <a href="https://llama.meta.com/llama3/"> Llama 3</a>, <a href="https://arxiv.org/pdf/2305.10403">PALM</a>, <a href="https://arxiv.org/pdf/2312.11805">Gemini</a>, and <a href="https://arxiv.org/pdf/2303.10845">Pangu-∑</a>), pre-trained speech models (e.g. <a href="https://arxiv.org/pdf/2202.05993">wav2vec</a>, <a href="https://arxiv.org/pdf/2106.07447">Hubert</a>, <a href="https://arxiv.org/pdf/2110.13900">wavLM</a>, <a href="https://proceedings.mlr.press/v202/radford23a/radford23a.pdf">Whisper</a>, <a href="https://www.assemblyai.com/blog/conformer-1/">Conformer-1</a> and <a href="https://www.assemblyai.com/blog/conformer-2/">Conformer-2</a> ) and other foundation models (e.g. <a href="https://openai.com/index/hello-gpt-4o/">GPT-4o</a>, and <a href="https://stability.ai/stable-image">Stable Diffusion</a>) have advanced rapidly and become more prominent and widespread, improving their efficiency would be more crucial. 
+While it is true that the computational power and GPU resources have played a significant role in the success of these models, we need to also be aware that using more computational resources can result in: (a) increasing the cost of training and deploying such models, (b) making the models less accessible, (c) less contribution from the research community, and (d) increasing the environmental costs of the models. Moreover, it is evident that most of these pre-trained models are largely over-parameterized and their efficiency is under question. Lack of efficiency can largely limit the application of these advanced models in practice.</p>
+<!-- Pangu-&sum; -->
+<p>
+<p>
 As large language models (e.g. <a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf">GPT-3</a>, <a href="http://arxiv.org/abs/2303.08774"> GPT-4</a>, <a href="https://llama.meta.com/llama3/"> Llama 3</a>, <a href="https://arxiv.org/pdf/2305.10403">PALM</a>, <a href="https://arxiv.org/pdf/2312.11805">Gemini</a>, and <a href="https://arxiv.org/pdf/2303.10845">Pangu-∑</a>), pre-trained speech models (e.g. <a href="https://arxiv.org/pdf/2202.05993">wav2vec</a>, <a href="https://arxiv.org/pdf/2106.07447">Hubert</a>, <a href="https://arxiv.org/pdf/2110.13900">wavLM</a>, <a href="https://proceedings.mlr.press/v202/radford23a/radford23a.pdf">Whisper</a>, <a href="https://www.assemblyai.com/blog/conformer-1/">Conformer-1</a> and <a href="https://www.assemblyai.com/blog/conformer-2/">Conformer-2</a> ) and other foundation models (e.g. <a href="https://openai.com/index/hello-gpt-4o/">GPT-4o</a>, and <a href="https://stability.ai/stable-image">Stable Diffusion</a>) have advanced rapidly and become more prominent and widespread, improving their efficiency would be more crucial. 
 While it is true that the computational power and GPU resources have played a significant role in the success of these models, we need to also be aware that using more computational resources can result in: (a) increasing the cost of training and deploying such models, (b) making the models less accessible, (c) less contribution from the research community, and (d) increasing the environmental costs of the models. Moreover, it is evident that most of these pre-trained models are largely over-parameterized and their efficiency is under question. Lack of efficiency can largely limit the application of these advanced models in practice.</p>
 <!-- Pangu-&sum; -->
