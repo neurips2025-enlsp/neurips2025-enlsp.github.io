@@ -14,6 +14,32 @@ layout: home
   
   <div style="
     position: absolute;
+    top: 13%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 8px #000;
+    line-height: 1.2;
+  ">
+    <div style="font-size: 1.3vw; font-weight: 500; white-space: nowrap;">
+      The Fifth Workshop on Efficient Natural Language and Speech Processing
+    </div>
+    <div style="font-size: 2.3vw; font-weight: bold; margin-top: 0.5vw;">
+      The Art of Smart Thinking:
+    </div>
+    <div style="font-size: 2.3vw; font-weight: bold; white-space: nowrap;">
+      Efficient Reasoning & Test-Time Compute
+    </div>
+  </div>
+</div>
+
+
+<div style="position: relative; width: 100%;">
+  <img src="/images/banner2025_v2.png" style="width: 100%; display: block; pointer-events: none; user-select: none;">
+  
+  <div style="
+    position: absolute;
     top: 12%;
     left: 50%;
     transform: translateX(-50%);
