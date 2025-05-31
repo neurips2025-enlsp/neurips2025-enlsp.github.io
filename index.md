@@ -84,9 +84,57 @@ Building on the momentum of previous editions, this year’s workshop continues 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 <p>
-Investing in the future of language and foundation models requires a concrete effort to enhance their efficiency across multiple dimensions (including architecture, training, and inference) and having a comprehensive evaluation framework. 
-To encourage engagement from the NeurIPS community, we present several active research topics in this field that invite participation and contributions. The scope of this workshop includes, but not limited to, the following topics:
+Advancing foundation models requires rethinking efficiency—especially in reasoning and test-time compute. We warmly welcome <strong>all</strong> submissions and contributions, including papers and demos, that address these challenges across the full model lifecycle: architecture, training, inference, and evaluation. Topics include, but are not limited to:
 <br><br>
+<b>Developing and Deploying Efficient Reasoning Language and Speech Models</b> 
+<ul>
+	<li>Training strategies for cost-efficient reasoning (RL vs. supervised fine-tuning trade-offs)</li>
+	<li>Developing new reasoning language and speech models using knowledge transfer</li>
+	<li>Curriculum learning and data-efficient reasoning</li>
+	<li>Enhanced speech-text multimodal reasoning, aligning speech and text reasoning chains</li>
+	<li>Architecture design for reasoning efficiency of language and speech modalities</li>
+</ul>
+<b>Efficiency in Test-time Compute</b> 
+<ul>
+	<li>Designing lightweight and adaptive test-time inference strategies for language and speech models</li>
+	<li>Combining test-time compute and inference optimizations (e.g., quantization & speculative decoding)</li>
+	<li>Test-time compute in heterogeneous and resource-constrained environments (e.g., edge devices)</li>
+	<li>Test-time scaling law vs. training scaling law</li>
+	<li>Efficient test-time compute solutions for language and speech reasoning models</li>
+</ul>
+<b>Designing Efficient Models and Architectures</b> 
+<ul>
+	<li>Non-autoregressive models such as diffusion models to improve generation speed and scalability</li>
+	<li>Designing hybrid models and their efficient training</li>
+	<li>Proposing new architectures with a focus on scalability, efficiency, and performance</li>
+	<li>Long-sequence modeling through memory-efficient mechanisms and architectural innovations</li>
+	<li>Dense vs. sparse architectures (MoEs)</li>
+</ul>
+<b>Efficient Training and Training Efficient Models</b> 
+<ul>
+	<li>Trade-offs between pre-training, post-training, and model upcycling to reduce overall training cost</li>
+	<li>Efficient pre-training solutions</li>
+	<li>Parameter-efficient fine-tuning (PEFT) tailored for hybrid models and emerging architectures</li>
+	<li>Enhancing instruction tuning, prompt engineering, and in-context learning</li>
+	<li>Data efficiency through data selection, filtering, and training strategies tailored for new models</li>
+</ul>
+<b>Efficient Inference Solutions</b> 
+<ul>
+	<li>Developing inference-optimized methods for new and non-transformer architectures</li>
+	<li>Accelerating speculative decoding (SD), batched SD, and extensions to hybrid and emerging models</li>
+	<li>Neural model compression techniques such as quantization, pruning, and knowledge distillation</li>
+	<li>Efficient inference solutions for new architectures</li>
+	<li>Many-in-one and dynamic solutions to serve diverse deployment targets efficiently</li>
+</ul>
+<b>Evaluation and Benchmarking</b> 
+<ul>
+	<li>Comprehensive evaluation of models using both efficiency metrics and performance indicators</li>
+	<li>Benchmarking new architectures, reasoning models, and test-time compute techniques</li>
+	<li>Datasets, benchmarks, and leaderboards for evaluating efficient reasoning language and speech models</li>
+</ul>
+ <span class="news-item-icon">📢</span> <b>Special Demo Track: Efficient Reasoning and Test-time Compute</b> This newly introduced track invites demo submissions that showcase working systems, tools, visualizations, or APIs addressing any of the topics above related to efficient reasoning and test-time compute in NLP & Speech.
+
+
 <b>Efficient Architectures</b> Proposing alternative architectures that are more efficient than Transformers (in terms of computational complexity, memory footprint, handling longer sequence lengths ) or modifying Transformer architectures to make them more efficient  
 <ul>
 	<li>Linear and sub-quadratic Transformers , sparse attention Transformers</li>
