@@ -14,7 +14,7 @@ layout: home
   
   <div style="
     position: absolute;
-    top: 13%;
+    top: 10%;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
@@ -26,7 +26,7 @@ layout: home
     <div style="font-size: 1.6vw; font-weight: 500; white-space: nowrap;">
       The Fifth Workshop on Efficient Natural Language and Speech Processing
     </div>
-    <br><br>
+    <br>
     <div style="font-size: 3vw; font-weight: bold; margin-top: 0.5vw;">
       The Art of Smart Thinking:
     </div>
