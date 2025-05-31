@@ -81,57 +81,6 @@ Building on the momentum of previous editions, this year’s workshop continues 
 </p>
 
 
-<p>
-Building on the momentum of previous editions, this year’s workshop continues to advance the efficiency of language and speech models, while introducing several timely and impactful directions to address emerging challenges and broaden community engagement:
-</p>
-
-<p><strong>(1) Efficient Architectures:</strong> 
-We spotlight architectures that balance performance with computational and memory efficiency. While Transformers dominate, their quadratic attention and KV cache overhead limit scalability 
-<a href="xxx">Zhang et al. 2023</a>. 
-New directions include sub-quadratic models (e.g., 
-<a href="xxx">Mamba</a>, 
-<a href="xxx">Hedgehog</a>, 
-<a href="xxx">xLSTM</a>, 
-and <a href="xxx">RVKW</a>), hybrid designs (e.g., 
-<a href="xxx">Jamba</a>, 
-<a href="xxx">Nemotron-H</a>), and diffusion-based language models 
-<a href="xxx">Nie et al. 2025</a>, 
-<a href="xxx">Li et al. 2025</a>.
-</p>
-
-<p><strong>(2) Custom Model Composition:</strong> 
-As applications diversify, we need modular, efficient frameworks that adapt pre-trained models without full retraining. This enables customization across hardware and user needs, beyond what compression or NAS alone can offer 
-<a href="xxx">Muralidharan et al. 2024</a>, 
-<a href="xxx">Bercovich et al. 2025a</a>, 
-<a href="xxx">Bercovich et al. 2025b</a>.
-</p>
-
-<p><strong>(3) Efficient Training and Knowledge Transfer:</strong> 
-Efficient models often rely on expensive training (e.g., 
-<a href="xxx">Samba</a> and 
-<a href="xxx">Hymba</a>, which involve pre-training) or suffer from poor transfer (e.g., 
-<a href="xxx">MambaInLLaMA</a>). We invite solutions for effective post-training adaptation, and KV compression that preserve model quality at lower cost.
-</p>
-
-<p><strong>(4) Efficient Reasoning Models:</strong> 
-Models like OpenAI’s O1 and DeepSeek show promise in reasoning, but their pipelines (training regimes, data curation, and design decisions) remain opaque. We encourage work that improves transparency and efficiency of reasoning models across training, data, inference, and deployment.
-</p>
-
-<p><strong>(5) Adaptive Test-Time Compute:</strong> 
-Reasoning often benefits from increased inference compute. We seek methods like speculative decoding (e.g., multi-branch CoT) and adaptive compute allocation to extend “thinking time” based on task complexity without incurring quadratic costs.
-</p>
-
-<p><strong>(6) Evaluation and Benchmarking:</strong> 
-Robust, compute-aware evaluation is essential. We seek evaluation methodologies that incorporate compute-aware metrics—such as latency-quality trade-offs, and energy efficiency—to assess models under practical deployment conditions, including edge and low-power scenarios.
-</p>
-
-<p>
-Building upon the framework of our previous three editions, this workshop remains dedicated to investigating solutions for enhancing the efficiency of pre-trained language and foundation models but with introducing some fresh and important new topics to the community and encouraging their contributions.
-Just to highlight a few: <b>(1)</b> Despite the ubiquitous usage of Transformers, they suffer from quadratic computational complexity which limits their efficiency especially for longer sequence lengths. Should we improve the efficiency of Transformers (e.g. in <a href="https://openreview.net/forum?id=4g02l2N2Nx">Hedgehog</a>, <a href="http://arxiv.org/abs/2312.06635">Gated Linear Attention</a>) or look for other architectures (e.g. <a href="https://arxiv.org/abs/2312.00752">Mamba</a>, <a href="http://arxiv.org/abs/2403.19887">Jamba</a>, <a href="http://arxiv.org/abs/2305.13048">RVKW</a>, <a href="http://arxiv.org/abs/2405.04517">xLSTM</a>, and <a href="http://arxiv.org/abs/2111.00396">SSMs</a>)? <b>(2)</b> For accelerating training, we have seen the significant impact of designing hardware efficient implementations such as in <a href = "http://arxiv.org/abs/2205.14135">Flash Attention</a>. Should we focus more on these hardware-aware solutions or more on new/improved architectures?
-<b>(3)</b> For efficient inference, there are solutions such as: Speculative Decoding <a href="http://arxiv.org/abs/2302.01318">[Link1]</a> <a href="http://arxiv.org/abs/2211.17192">[Link2]</a> where the performance is strongly model and task-dependent and the draft and target models should have the same vocabulary (tokenizer); improved KV-caching (e.g. <a href="http://arxiv.org/abs/2306.14048">[Link]</a>) which has a limited speed-up; and many-in-one models such as <a href="http://arxiv.org/abs/2309.00255">SortedNet</a>, <a href="http://arxiv.org/abs/2310.07707">MatFormer</a>, and <a href="http://arxiv.org/abs/2404.16710">LayerSkip</a> but the performance of sub-models drops compared to their corresponding individual models.
-<b>(4)</b> While there are many so-called efficient solutions in the literature, there is no fair, comprehensive and practical evaluation of these models and their comparison to each other. For example, we do not know the hallucination extent of the new architectures vs. the transformer model (e.g. in <a href="http://arxiv.org/abs/2402.01032">[Link]</a>). 
-</p>
-
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 <p>
