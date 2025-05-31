@@ -11,6 +11,27 @@ layout: home
 
 <div style="position: relative; width: 100%;">
   <img src="/images/banner2025_v2.png" style="width: 100%; display: block; pointer-events: none; user-select: none;">
+  <div style="
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 2.4vw;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+    text-shadow: 2px 2px 8px #000;
+    max-width: 90%;
+  ">
+    The Fifth Workshop on Efficient Natural Language and Speech Processing<br>
+    The Art of Smart Thinking:<br>
+    Efficient Reasoning & Test-Time Compute
+  </div>
+</div>
+
+<div style="position: relative; width: 100%;">
+  <img src="/images/banner2025_v2.png" style="width: 100%; display: block; pointer-events: none; user-select: none;">
   <div style="position: absolute; top: 10%; left: 50%; transform: translateX(-50%);
               color: white; font-size: 2vw; font-weight: bold; text-align: center; text-shadow: 2px 2px 8px #000;">
     The Fifth Workshop on Efficient Natural Language and Speech Processing<br>
