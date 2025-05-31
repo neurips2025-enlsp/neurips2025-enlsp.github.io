@@ -132,7 +132,7 @@ Advancing foundation models requires rethinking efficiency—especially in reaso
 	<li>Benchmarking new architectures, reasoning models, and test-time compute techniques</li>
 	<li>Datasets, benchmarks, and leaderboards for evaluating efficient reasoning language and speech models</li>
 </ul>
- <span class="news-item-icon">📢</span> <b>Special Demo Track: Efficient Reasoning and Test-time Compute</b> This newly introduced track invites demo submissions that showcase working systems, tools, visualizations, or APIs addressing any of the topics above related to efficient reasoning and test-time compute in NLP & Speech.</b>
+ <span class="news-item-icon">📢</span> <b>Special Demo Track: Efficient Reasoning and Test-time Compute</b> This newly introduced track invites demo submissions that showcase working systems, tools, visualizations, or APIs addressing any of the topics above related to efficient reasoning and test-time compute in NLP & Speech.
 
 </p>
 
