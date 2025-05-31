@@ -31,9 +31,10 @@ layout: home
 -->
 
 <p>
-The fourth version of the Efficient Natural Language and Speech Processing (ENLSP-IV) workshop will focus on how to make large language and foundation models more efficient in terms of <b>Architecture</b>, <b>Training</b>, and <b>Inference</b> in their real-world applications. This year, following the trend of industry and academia, we put more emphasis on investigating new architectures to make future language and foundation models more efficient. Moreover, we highlight the importance of comprehensive evaluation and benchmarking new efficient models from different practical aspects. 
-The workshop program offers an interactive platform for gathering experts and talents from academia and industry through invited talks, panel discussion, paper submission, reviews, interactive poster sessions, oral presentations and a couple of mentorship sessions for new researchers.
-This will be a unique opportunity to discuss and share challenging problems, build connections,  exchange ideas and brainstorm, and foster future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, hardware, optimization, theory and applications. 
+The Efficient Natural Language and Speech Processing (ENLSP) Workshop aims to advance the efficiency of large language and speech models across three key dimensions: <b>Model Design</b>, <b>Training</b>, and <b>Inference</b>—with a particular emphasis this year on <b>reasoning capabilities</b> and <b>test-time compute</b>.
+While enabling models to ``think longer'' has shown promise, they must also <b><i>think smarter</i></b> that requires a stronger focus on efficiency in how models reason and adapt across diverse deployment settings.
+ENLSP brings together academic researchers and industry experts in a dynamic program featuring <i>invited talks</i>, <i>panel discussions</i>, peer-reviewed <i>paper</i> and <i>poster presentations</i>, a <i>demo track</i>, and <i>mentorship sessions</i> for new researchers.
+The workshop provides a unique opportunity to explore emerging challenges in efficient AI, exchange ideas, and foster collaborations to bring together researchers from the machine learning, systems, optimization, theory and applied AI communities.
 </p>
 
 
