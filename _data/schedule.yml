@@ -58,10 +58,10 @@
   Whole_line: true
 
 - Title: <b>Interactive Panel Discussion</b>
-Time: 1:45PM - 2:30PM
-Presenter: <ul><li>Beidi Chen</li><li>Ivan Vulić</li><li>Tanya Roosta</li></ul>
-Is_paper: false
-Whole_line: false
+  Time: 1:45PM - 2:30PM
+  Presenter: <ul><li>Beidi Chen</li><li>Ivan Vulić</li><li>Tanya Roosta</li></ul>
+  Is_paper: false
+  Whole_line: false
 
 - Title: <b>KeyNote Talk</b>
   Time: 2:30PM - 3:00PM
