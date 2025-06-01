@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="/images/banner2025_v2.png" style="pointer-events: none; user-select: none;">
+<img src="/images/banner2025_v3.png" style="pointer-events: none; user-select: none;">
 
 <div style="position: relative; width: 100%;">
   <img src="/images/banner2025_v2.png" style="width: 100%; display: block; pointer-events: none; user-select: none;">
