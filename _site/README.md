@@ -1,1 +1,1 @@
-# neurips2024-enlsp.github.io
+# neurips2025-enlsp.github.io
