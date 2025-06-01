@@ -31,13 +31,13 @@
   Whole_line: true  
 
 
-- Title: (<b>KeyNote Talk</b>) Hardware-aware Algorithms for Language Modeling
+- Title: (<b>KeyNote Talk</b>)
   Time: 10:00AM - 10:30AM
-  Presenter: Prof. Tri Dao
+  Presenter: Dr. Peter Clark
   Is_paper: false
   Whole_line: false
-  Bio: <b>Tri Dao</b> is an Assistant Professor at Princeton University and chief scientist of Together AI. He completed his PhD in Computer Science at Stanford. He works at the intersection of machine learning and systems, and his research interests include sequence models with long-range memory and structured matrices for compact deep learning models. His work has received the COLM 2024 Outstanding paper award and ICML 2022 Outstanding paper runner-up award.
-  Abstract: Transformers are slow and memory-hungry on long sequences, since the time and memory complexity of self-attention are quadratic in sequence length. We describe recent progress on subquadratic-time architectures such structured state space models (SSMs). We identify that a key weakness of such models is their inability to perform content-based reasoning, and propose a selection mechanism to address this shortcoming. Though this change prevents the use of efficient convolutions, we design a hardware-aware parallel algorithm in recurrent mode. We integrate these selective SSMs into a simplified end-to-end neural network architecture without attention or even MLP blocks. The resulting architecture (Mamba and Mamba-2) matches or exceeds the performance of strong modern Transformers on language modeling, validated at 3B scales on both pretraining and downstream evaluation, while enjoying 5x higher inference throughput and linear scaling in sequence length. Hybridizing Mamba layers with a 2-4 attention layers leads to state-of-the-art models, excelling at long context and fast inference.
+  Bio:
+  Abstract:
 - Title: (<b>KeyNote Talk</b>) Speech generative modeling with little tokenization
   Time: 10:30AM - 11:00AM
   Presenter: Dr. Navdeep Jaitly
