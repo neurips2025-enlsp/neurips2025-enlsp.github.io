@@ -88,15 +88,16 @@ layout: home
 
     <h3 style="margin-bottom: 5px;">Google Meet Joining Info</h3>
     <p>
-      <a href="https://meet.google.com/pmz-ozpk-woj" style="color: #1a73e8; text-decoration: none;">
+      <a href="https://meet.google.com/cma-wywf-yip" style="color: #1a73e8; text-decoration: none;">
         🔗 Join the Video Call
       </a>
     </p>
 
     <h3 style="margin-bottom: 5px;">📅 Add to Your Calendar</h3>
     <ul style="padding-left: 20px; margin-top: 0;">
-      <li><a href="https://calendar.app.google/oJtevifEwr9ZXDBD8" style="color: #1a73e8;">July 29 Session</a></li>
-      <li><a href="https://calendar.app.google/TMCELHHkTNC5aVCu6" style="color: #1a73e8;">August 12 Session</a></li>
+      <li><a href="https://calendar.app.google/xbu8nMd1nvPAi5Qi8" style="color: #1a73e8;">July 29 Session</a></li>
+      <li><a href="https://calendar.app.google/p6B8avKYmjvBZX8D6" style="color: #1a73e8;">July 29 Session</a></li>
+      <li><a href="https://calendar.app.google/hUTV96JJ7wMRgjC28" style="color: #1a73e8;">August 12 Session</a></li>
     </ul>
   </div>
 </div>
