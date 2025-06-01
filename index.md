@@ -359,7 +359,7 @@ We are currently welcoming sponsorship opportunities. If your organization is in
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/Huawei2.png" width="250px">
+			<img src="/images/Huawei2.png" width="150px">
 		</center>
 	</div>
     <div class="col">
@@ -369,12 +369,12 @@ We are currently welcoming sponsorship opportunities. If your organization is in
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/Logo-Sanofi.png" width="250px">
+			<img src="/images/Logo-Sanofi.png" width="200px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/amd.png" width="250px">
+			<img src="/images/AMD.png" width="250px">
 		</center>
 	</div>
 </div>
