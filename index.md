@@ -194,9 +194,9 @@ preparing high-quality submissions, addressing questions, and engaging with the 
 
     <h3 style="margin-bottom: 5px;">📅 Add to Your Calendar</h3>
     <ul style="padding-left: 20px; margin-top: 0;">
-      <li><a href="https://calendar.app.google/mTFsmwKUgPmXLaFYA" style="color: #1a73e8;">July 15 Session</a></li>
-      <li><a href="https://calendar.app.google/oJtevifEwr9ZXDBD8" style="color: #1a73e8;">July 29 Session</a></li>
-      <li><a href="https://calendar.app.google/TMCELHHkTNC5aVCu6" style="color: #1a73e8;">August 12 Session</a></li>
+      <li><a href="https://calendar.app.google/mTFsmwKUgPmXLaFYA" style="color: #1a73e8;">Mentorship Day 1: July 15, 2025</a></li>
+      <li><a href="https://calendar.app.google/oJtevifEwr9ZXDBD8" style="color: #1a73e8;">Mentorship Day 2: July 29, 2025</a></li>
+      <li><a href="https://calendar.app.google/TMCELHHkTNC5aVCu6" style="color: #1a73e8;">Mentorship Day 3: August 12, 2025</a></li>
     </ul>
   </div>
 
@@ -215,14 +215,14 @@ preparing high-quality submissions, addressing questions, and engaging with the 
 
     <h3 style="margin-bottom: 5px;">📅 Add to Your Calendar</h3>
     <ul style="padding-left: 20px; margin-top: 0;">
-      <li><a href="https://calendar.app.google/xbu8nMd1nvPAi5Qi8" style="color: #1a73e8;">July 29 Session</a></li>
-      <li><a href="https://calendar.app.google/p6B8avKYmjvBZX8D6" style="color: #1a73e8;">July 29 Session</a></li>
-      <li><a href="https://calendar.app.google/hUTV96JJ7wMRgjC28" style="color: #1a73e8;">August 12 Session</a></li>
+      <li><a href="https://calendar.app.google/xbu8nMd1nvPAi5Qi8" style="color: #1a73e8;">Mentorship Day 1: July 15, 2025</a></li>
+      <li><a href="https://calendar.app.google/p6B8avKYmjvBZX8D6" style="color: #1a73e8;">Mentorship Day 2: July 29, 2025</a></li>
+      <li><a href="https://calendar.app.google/hUTV96JJ7wMRgjC28" style="color: #1a73e8;">Mentorship Day 3: August 12, 2025</a></li>
     </ul>
   </div>
 </div>
 
-
+<br /> 
 <h2 class="blackpar_title">Submission Instructions</h2>
 <p>
 You are invited to submit your papers in our CMT submission portal <a href="https://cmt3.research.microsoft.com/ENLSP2024">(Link)</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be more than <b>8 pages for Long Papers</b> and <b>4 pages for Short Papers</b>, strictly following the NeurIPS template style <a href= "https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh">(Link)</a>. Please be advised that the NeurIPS submission checklist is not needed for our workshop submissions. 
