@@ -183,8 +183,8 @@ preparing high-quality submissions, addressing questions, and engaging with the 
   <div style="flex: 1; min-width: 300px; border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
     <h2 style="color: #003366; margin-top: 0;">ENLSP 2025 Mentorship Session I</h2>
     <p><strong>Time: 7:00 – 8:00 AM Eastern Time (Toronto)</p>
-    <p><strong>Convert to your local time</p>
-    <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=ENLSP+Mentorship+Session+A&iso=20250715T07&p1=250" style="color: #1a73e8; text-decoration: none;"> ➤ Convert to your local time</a>
+    <p><strong><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=ENLSP+Mentorship+Session+A&iso=20250715T07&p1=250" style="color: #1a73e8; text-decoration: none;"> ➤ Convert to your local time</a></p>
+    
 
     <h3 style="margin-bottom: 5px;">Google Meet Joining Info</h3>
     <p>
@@ -201,11 +201,11 @@ preparing high-quality submissions, addressing questions, and engaging with the 
     </ul>
   </div>
 
-  <!-- Session II -->
+  <!-- 🕛 Session B – Americas (Best for participants in North & South America) -->
   <div style="flex: 1; min-width: 300px; border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
     <h2 style="color: #003366; margin-top: 0;">ENLSP 2025 Mentorship Session II</h2>
-    <p><strong>Date:</strong> Tuesday, July 29</p>
-    <p><strong>Time:</strong> 7:00 – 8:00am (America/Toronto)</p>
+    <p><strong>Time:</strong> 12:00 – 1:00 PM Eastern Time (Toronto)</p>
+    <p><strong><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=ENLSP+Mentorship+Session+B&iso=20250715T12&p1=250" style="color: #1a73e8; text-decoration: none;"> ➤ Convert to your local time</a></p>
 
     <h3 style="margin-bottom: 5px;">Google Meet Joining Info</h3>
     <p>
