@@ -379,40 +379,5 @@ We are currently welcoming sponsorship opportunities. If your organization is in
 	</div>
 </div>
 <br>
-<h2 class="blackpar_title">Platinum Sponsor</h2>
-<div class="row">
-	<div class="col">
-		<center>
-			<img src="/images/Apple-Logo.jpg" width="250px">
-		</center>
-	</div>
-</div>
-<h2 class="blackpar_title">Gold Sponsors</h2>
-<br>
-<div class="row">
-	<div class="col">
-		<center>
-			<img src="/images/shanghai_ai_lab1.png" width="200px">
-		</center>
-	</div>
-	<div class="col">
-		<center>
-			<img src="/images/Logo-Sanofi.png" width="150px">
-		</center>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="col">
-		<center>
-			<img src="/images/netmind_logo.png" width="400px">
-		</center>
-	</div>
-	<div class="col">
-		<center>
-			<img src="/images/CUHK.png" width="400px">
-	</center>
-</div>
-<br>
 
 
