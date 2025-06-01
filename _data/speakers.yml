@@ -1,33 +1,28 @@
 - num_row: 1
   speakers:
-    - name: Danqi Chen
-      title: Prof.
-      affiliation: Princeton 
-      photo: danqi_2019.jpg
-    - name: Bhavana Dalvi
+    - name: Samy Bengio
       title: Dr.
-      affiliation: Allen Institute for AI
-      photo: bhavana.jpg
+      affiliation: Apple
+      photo: samy_bengio.jpg
+    - name: Azalia Mirhoseini
+      title: Prof.
+      affiliation: Stanford University
+      photo: azalia_mirhoseini.jfif
     - name: Weizhu Chen
       title: Dr.
       affiliation: Microsoft
       photo: Weizhu_Chen.jpg
-    - name: Tri Dao
-      title: Prof.
-      affiliation: Princeton/Together AI
-      photo: tri_dao.jpeg
-
 - num_row: 2
   speakers:
-    - name: Hananeh Hajishirzi
+    - name: Barbara Plank
       title: Prof.
-      affiliation: University of Washington
-      photo: Hananeh_Hajishirzi.jpg
-    - name: Navdeep Jaitly
+      affiliation: LMU Munich
+      photo: barbara_plank.jfif
+    - name: Peter Clark
       title: Dr.
-      affiliation: Apple
-      photo: navdeep-jaitly.jpg
-    - name: Lili Mou
-      title: Prof.
-      affiliation: University of Alberta
-      photo: lili_mou.jpg
+      affiliation:  Allen Institute for AI
+      photo: peter_clark.jpg
+    - name: Lu Hou
+      title: Dr.
+      affiliation: Huawei Noah's Ark Lab
+      photo: luhou.jpg
