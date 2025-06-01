@@ -2,7 +2,7 @@
   Time: 8:15AM - 8:30AM
   Whole_line: true  
 
-- Title: (<b>KeyNote Talk </b>)
+- Title: <b>KeyNote Talk </b>
   Time: 8:30AM - 9:00AM
   Presenter: Prof. Azalia Mirhoseini
   Is_paper: false
@@ -10,7 +10,7 @@
   Bio: TBD
   Abstract: TBD
 
-- Title: (<b>KeyNote Talk</b>)
+- Title: <b>KeyNote Talk</b>
   Time: 9:00AM - 9:30AM
   Presenter: Dr. Weizhu Chen
   Is_paper: false
@@ -18,36 +18,37 @@
   Bio: TBD
   Abstract: TBD
 
-- Title: (<b>Oral Presentations - Part I</b>)
+- Title: <b>Accepted Oral Presentations - Part I</b>
   Time: 9:30AM - 10:00AM
-  Presenters: TBD
+  Presenter: TBD
   Is_paper: false
   Whole_line: false
   Bio: TBD
   Abstract: TBD
 
-- Title: Morning Networking Break
+- Title: <b>Morning Networking Break</b>
   Time: 10:00AM - 10:30AM
   Whole_line: true  
 
 
-- Title: (<b>KeyNote Talk</b>)
-  Time: 10:00AM - 10:30AM
+- Title: <b>KeyNote Talk</b>
+  Time: 10:30AM - 11:00AM
   Presenter: Dr. Peter Clark
   Is_paper: false
   Whole_line: false
-  Bio:
-  Abstract:
-- Title: (<b>KeyNote Talk</b>) Speech generative modeling with little tokenization
-  Time: 10:30AM - 11:00AM
-  Presenter: Dr. Navdeep Jaitly
+  Bio: TBD
+  Abstract: TBD
+
+- Title: <b>KeyNote Talk</b>
+  Time: 11:30AM - 11:30AM
+  Presenter: Prof. Barbara Plank
   Is_paper: false
   Whole_line: false
-  Bio: <b>Navdeep Jaitly</b> is a Research Scientist at Apple Machine Learning Research (MLR) where he leads a team of researchers working on fundamental techniques in Machine Learning with an emphasis on speech and language. He got his PhD from University of Toronto, under the supervision of Geoffrey Hinton in the foundational days of Deep Learning. During a PhD internship at Google in 2011 he demonstrated how Deep Neural Networks would revolutionize speech recognition replacing HMM systems that were in use before. After his PhD he joined Google Brain working on sequence models and techniques such as Listen Attend and Spell, Adversarial Autoencoders and Pointer Networks. He has also held machine learning research positions at Nvidia, Google Brain Robotics (initiating robotic ping pong), D. E. Shaw and the National Labs.
-  Abstract: It is well accepted now that speech needs to be tokenized before it can be modeled with transformer based generative models. In fact there is a rich body of intricate work using semantic and other acoustic tokens for speech modeling. In this talk we show how tokenization may not be necessary and that, indeed, a simple way of discretizing Mel-spectrograms (which we call d-Mel) is enough to build generative models with transformers. We show how we can build conditional generative models of speech (text-to-speech) using d-Mel and transformer based models. We also demonstrate that the same technique can be applied to multi-modal generation of speech conditioned on text and video. It is our hope that this leads to more exploration on minimal preprocessing of speech for use in generative modeling.
-- Title: (<b>KeyNote Talk</b>) Optimizing Data Use for Efficient Pre-training
-  Time: 11:00AM - 11:30AM
-  Presenter: Prof. Danqi Chen
+  Bio: TBD
+  Abstract: TBD
+- Title: (<b>Accepted Oral Presentations - Part II</b>)
+  Time: 11:30AM - 12:00AM
+  Presenter: TBD
   Is_paper: false
   Whole_line: false
   Bio: <b>Danqi Chen</b> is an assistant professor of Computer Science at Princeton University and co-leads the Princeton NLP group. She is also an Associate Director of Princeton Language and Intelligence. Her recent research focuses on training, adapting and understanding large language models, especially with the goal of making them more accessible to academia. Before joining Princeton, Danqi was a visiting scientist at Facebook AI Research. She received her Ph.D. from Stanford University (2018) and her B.E. from Tsinghua University (2012), both in Computer Science. Her research was recognized by a Sloan Fellowship, an NSF CAREER award, a Samsung AI Researcher of the Year award, and outstanding paper awards from ACL and EMNLP.
