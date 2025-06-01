@@ -354,19 +354,29 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 We are currently welcoming sponsorship opportunities. If your organization is interested in supporting our conference, please contact us (neurips.ENLSP.2024@gmail.com) for more information on sponsorship packages and benefits. 
 </p> -->
 
-<h2 class="blackpar_title" id="sponsors"> Diamond Sponsors</h2>
+<h2 class="blackpar_title" id="sponsors"> Sponsorship Prospects</h2>
 <br>
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/Diamond.png" width="800px">
+			<img src="/images/huawei_logo.png" width="250px">
 		</center>
 	</div>
-	<!-- <div class="col">
+    <div class="col">
 		<center>
-			<img src="/images/BASF_logo.png" width="350px">
+			<img src="/images/Apple-Logo.jpg" width="250px">
 		</center>
-	</div>	 -->
+	</div>
+	<div class="col">
+		<center>
+			<img src="/images/Logo-Sanofi.png" width="150px">
+		</center>
+	</div>
+	<div class="col">
+		<center>
+			<img src="/images/amd.png" width="150px">
+		</center>
+	</div>
 </div>
 <br>
 <h2 class="blackpar_title">Platinum Sponsor</h2>
