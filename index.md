@@ -374,7 +374,7 @@ We are currently welcoming sponsorship opportunities. If your organization is in
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/AMD.png" width="250px">
+			<img src="/images/AMD.png" width="200px">
 		</center>
 	</div>
 </div>
