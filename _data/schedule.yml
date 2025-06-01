@@ -53,13 +53,13 @@
 - Title: <b>Sponsored Networking Lunch Break</b>
   Time: 12:15PM - 1:00PM
   Whole_line: true
-- Title: <b>Poster Session I-(Paper IDs &#35;1 - &#35;25 <a href="https://drive.google.com/drive/folders/1xnuRixS8p8LvBOzj2rc5B8R2QdVAez82?usp=sharing" target="_blank">[Link to Posters]</a>) </b>
-  Time: 1:00PM - 1:45PM
+- Title: <b>Poster & Demo Session I-(Paper IDs &#35;1 - &#35;25 <a href="https://drive.google.com/drive/folders/1xnuRixS8p8LvBOzj2rc5B8R2QdVAez82?usp=sharing" target="_blank">[Link to Posters]</a>) </b>
+  Time: 12:45PM - 1:45PM
   Whole_line: true
 
 - Title: <b>Interactive Panel Discussion</b>
   Time: 1:45PM - 2:30PM
-  Presenter: <ul><li>Beidi Chen</li><li>Ivan Vulić</li><li>Tanya Roosta</li></ul>
+  Presenter: <ul><li>Prof. Beidi Chen</li><li>Prof. Ivan Vulić</li><li>Dr. Tanya Roosta</li></ul>
   Is_paper: false
   Whole_line: false
 
