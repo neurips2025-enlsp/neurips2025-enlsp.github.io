@@ -58,6 +58,49 @@ layout: home
   </ul>
 </div>
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; font-family: Arial, sans-serif; max-width: 100%;">
+  <!-- Session I -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+    <h2 style="color: #003366; margin-top: 0;">ENLSP 2025 Mentorship Session I</h2>
+    <p><strong>Date:</strong> Tuesday, July 15</p>
+    <p><strong>Time:</strong> 7:00 – 8:00am (America/Toronto)</p>
+
+    <h3 style="margin-bottom: 5px;">Google Meet Joining Info</h3>
+    <p>
+      <a href="https://meet.google.com/pmz-ozpk-woj" style="color: #1a73e8; text-decoration: none;">
+        🔗 Join the Video Call
+      </a>
+    </p>
+
+    <h3 style="margin-bottom: 5px;">📅 Add to Your Calendar</h3>
+    <ul style="padding-left: 20px; margin-top: 0;">
+      <li><a href="https://calendar.app.google/mTFsmwKUgPmXLaFYA" style="color: #1a73e8;">July 15 Session</a></li>
+      <li><a href="https://calendar.app.google/oJtevifEwr9ZXDBD8" style="color: #1a73e8;">July 29 Session</a></li>
+      <li><a href="https://calendar.app.google/TMCELHHkTNC5aVCu6" style="color: #1a73e8;">August 12 Session</a></li>
+    </ul>
+  </div>
+
+  <!-- Session II -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+    <h2 style="color: #003366; margin-top: 0;">ENLSP 2025 Mentorship Session II</h2>
+    <p><strong>Date:</strong> Tuesday, July 29</p>
+    <p><strong>Time:</strong> 7:00 – 8:00am (America/Toronto)</p>
+
+    <h3 style="margin-bottom: 5px;">Google Meet Joining Info</h3>
+    <p>
+      <a href="https://meet.google.com/pmz-ozpk-woj" style="color: #1a73e8; text-decoration: none;">
+        🔗 Join the Video Call
+      </a>
+    </p>
+
+    <h3 style="margin-bottom: 5px;">📅 Add to Your Calendar</h3>
+    <ul style="padding-left: 20px; margin-top: 0;">
+      <li><a href="https://calendar.app.google/oJtevifEwr9ZXDBD8" style="color: #1a73e8;">July 29 Session</a></li>
+      <li><a href="https://calendar.app.google/TMCELHHkTNC5aVCu6" style="color: #1a73e8;">August 12 Session</a></li>
+    </ul>
+  </div>
+</div>
+
 
 <!-- 
 <div style="
