@@ -359,7 +359,7 @@ We are currently welcoming sponsorship opportunities. If your organization is in
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/huawei_logo.png" width="250px">
+			<img src="/images/Huawei2.png" width="250px">
 		</center>
 	</div>
     <div class="col">
