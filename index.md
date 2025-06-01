@@ -37,7 +37,28 @@ layout: home
   </div>
 </div>
 -->
- 
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; max-width: 600px; font-family: Arial, sans-serif; background-color: #f9f9f9;">
+  <h2 style="color: #003366; margin-top: 0;">ENLSP 2025 Mentorship Session I</h2>
+  <p><strong>Date:</strong> Tuesday, July 15</p>
+  <p><strong>Time:</strong> 7:00 – 8:00am (America/Toronto)</p>
+
+  <h3 style="margin-bottom: 5px;">Google Meet Joining Info</h3>
+  <p>
+    <a href="https://meet.google.com/pmz-ozpk-woj" style="color: #1a73e8; text-decoration: none;">
+      🔗 Join the Video Call
+    </a>
+  </p>
+
+  <h3 style="margin-bottom: 5px;">📅 Add to Your Calendar</h3>
+  <ul style="padding-left: 20px; margin-top: 0;">
+    <li><a href="https://calendar.app.google/mTFsmwKUgPmXLaFYA" style="color: #1a73e8;">July 15 Session</a></li>
+    <li><a href="https://calendar.app.google/oJtevifEwr9ZXDBD8" style="color: #1a73e8;">July 29 Session</a></li>
+    <li><a href="https://calendar.app.google/TMCELHHkTNC5aVCu6" style="color: #1a73e8;">August 12 Session</a></li>
+  </ul>
+</div>
+
+
 <!-- 
 <div style="
   border: 1px solid #ccc; 
@@ -49,6 +70,12 @@ layout: home
     <ul>
     <span class="news-item-icon">📢</span> <b>author notifications have been released on Oct. 9th. 
 	</b>
+	ENLSP 2025 Mentorship Session I
+Tuesday, July 15 · 7:00 – 8:00am
+Time zone: America/Toronto
+Google Meet joining info
+Video call link: https://meet.google.com/pmz-ozpk-woj
+Calendar Invite (add to your calendar): https://calendar.app.google/mTFsmwKUgPmXLaFYA  (July 29th- https://calendar.app.google/oJtevifEwr9ZXDBD8) (Aug. 12, https://calendar.app.google/TMCELHHkTNC5aVCu6)
 	<p>
     We have added a special fast track for papers reviewed at NeurIPS 2024 that were not accepted. Authors can submit their papers with a link to their (anonymous) OpenReview page, giving our program committee access to the reviews of their paper.
   	</p>
