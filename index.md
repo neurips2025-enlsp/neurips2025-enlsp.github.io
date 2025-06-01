@@ -369,12 +369,12 @@ We are currently welcoming sponsorship opportunities. If your organization is in
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/Logo-Sanofi.png" width="150px">
+			<img src="/images/Logo-Sanofi.png" width="250px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/amd.png" width="150px">
+			<img src="/images/amd.png" width="250px">
 		</center>
 	</div>
 </div>
