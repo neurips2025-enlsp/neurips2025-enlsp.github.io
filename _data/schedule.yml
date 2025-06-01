@@ -23,8 +23,6 @@
   Presenter: TBD
   Is_paper: false
   Whole_line: false
-  Bio: TBD
-  Abstract: TBD
 
 - Title: <b>Morning Networking Break</b>
   Time: 10:00AM - 10:30AM
@@ -50,9 +48,8 @@
   Time: 11:30AM - 12:00AM
   Presenter: TBD
   Is_paper: false
-  Whole_line: false
-  Bio: <b>Danqi Chen</b> is an assistant professor of Computer Science at Princeton University and co-leads the Princeton NLP group. She is also an Associate Director of Princeton Language and Intelligence. Her recent research focuses on training, adapting and understanding large language models, especially with the goal of making them more accessible to academia. Before joining Princeton, Danqi was a visiting scientist at Facebook AI Research. She received her Ph.D. from Stanford University (2018) and her B.E. from Tsinghua University (2012), both in Computer Science. Her research was recognized by a Sloan Fellowship, an NSF CAREER award, a Samsung AI Researcher of the Year award, and outstanding paper awards from ACL and EMNLP.
-  Abstract: Training large language models relies heavily on the quality and composition of data, yet optimizing data selection and utilization remains a significant challenge in the field. In this talk, I will outline several key ideas to enhance training efficiency through better data use and cover several findings from my lab on selecting high-quality datasets and optimizing data compositions. I will also introduce a simple yet powerful pre-training approach that conditions on meta-data information associated with training data. This approach is remarkably straightforward to implement, incurs minimal computational overhead, and yields significant efficiency gains.
+  Whole_line: true
+
 - Title: (<b>Spotlight 1</b>) Sparsified State-Space Models are Efficient Highway Networks
   Time: 11:30AM - 11:36AM
   Presenter: Woomin Song
