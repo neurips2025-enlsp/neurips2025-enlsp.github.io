@@ -244,7 +244,7 @@ One selected demo will be honored with the <b>Demo Award</b> and a featured <b>l
 </p>
 
 
-<h2 class="blackpar_title">Important Dates:</h2>
+<h2 class="blackpar_title">Important Dates</h2>
 <p>
 <ul>
 	<li>Submission Deadline: <b>August 22, 2025, Anywhere on Earth (AOE)</b></li>
