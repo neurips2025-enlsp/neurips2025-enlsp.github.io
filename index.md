@@ -232,9 +232,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <h2 class="blackpar_title">Demo Submission Instructions</h2>
 <p>
 You are invited to submit your demo proposals through our CMT submission portal <a href="https://cmt3.research.microsoft.com/ENLSP2024">(Link)</a>. The demo track welcomes submissions showcasing <b>working systems, tools, visualizations, or APIs</b> related to <b>efficient reasoning and test-time compute</b> in NLP and Speech. 
-<br /><br />
 Each submission should include a <b>technical report of up to 2 pages (PDF)</b> that describes the system, motivation, use case, technical approach, and relevance to the workshop topic. 
-<br /><br />
 To effectively showcase how your demo works, please include at least one of the following (or more if available):
 <ul style="padding-left: 20px;">
   <li>A <b>demo video link</b> (maximum 10 minutes)</li>
@@ -242,7 +240,6 @@ To effectively showcase how your demo works, please include at least one of the 
   <li>A <b>link to the source code</b> (if accessible)</li>
 </ul>
 All demo proposals will be reviewed and evaluated by our technical committee based on relevance, innovation, and clarity. 
-<br /><br />
 One selected demo will be honored with the <b>Demo Award</b> and a featured <b>live presentation</b> during the main workshop program. Similar to the paper track, the accepted demos will be hosted on the workshop website, but the workshop remains non-archival.
 </p>
 
@@ -356,7 +353,7 @@ We are currently welcoming sponsorship opportunities. If your organization is in
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/Huawei2.png" width="130px">
+			<img src="/images/Huawei2.png" width="150px">
 		</center>
 	</div>
     <div class="col">
