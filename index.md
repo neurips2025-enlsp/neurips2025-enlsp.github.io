@@ -181,7 +181,7 @@ preparing high-quality submissions, addressing questions, and engaging with the 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; font-family: Arial, sans-serif; max-width: 100%;">
   <!-- Session I -->
   <div style="flex: 1; min-width: 300px; border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-    <h3 style="color: #003366; margin-top: 0;">🕖 Session A – Global East (Best for participants in Asia, Europe, Africa, Australia)</h3>
+    <h3 style="color: #003366; margin-top: 0;">🕖 Session A – Global East (Best for Asia, Europe, Africa, Australia)</h3>
     <p><strong>Time:</strong> 7:00 – 8:00 AM Eastern Time (Toronto)</p>
     <p><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=ENLSP+Mentorship+Session+A&iso=20250715T07&p1=250" style="color: #1a73e8; text-decoration: none;"> <strong>➤ Convert to your local time</strong></a></p>
     
