@@ -172,6 +172,8 @@ Advancing foundation models requires rethinking efficiency—especially in reaso
  <span class="news-item-icon">📢</span> <b>Special Demo Track: Efficient Reasoning and Test-time Compute</b> This newly introduced track invites demo submissions that showcase working systems, tools, visualizations, or APIs addressing any of the topics above related to efficient reasoning and test-time compute in NLP & Speech.
 </p>
 
+<br /> 
+
 <h2 class="blackpar_title">Mentorship Sessions</h2>
 <p>
 To support new researchers and underrepresented groups, we will host virtual mentorship sessions prior to the submission deadline. These sessions will provide guidance on
@@ -226,6 +228,24 @@ You are invited to submit your papers in our CMT submission portal <a href="http
 <br />
 Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. According to the guideline of the NeurIPS workshops, already published papers are not encouraged for submission, but you are allowed to submit your ArXiv papers. Moreover, a work that is presented at the main NeurIPS conference should not appear in a workshop. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the <b>Best Paper</b> and the <b>Best Poster</b> Awards to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website. 
 </p>
+
+<h2 class="blackpar_title">Demo Submission Instructions</h2>
+<p>
+You are invited to submit your demo proposals through our CMT submission portal <a href="https://cmt3.research.microsoft.com/ENLSP2024">(Link)</a>. The demo track welcomes submissions showcasing <b>working systems, tools, visualizations, or APIs</b> related to <b>efficient reasoning and test-time compute</b> in NLP and Speech. 
+<br /><br />
+Each submission should include a <b>technical report of up to 2 pages (PDF)</b> that describes the system, motivation, use case, technical approach, and relevance to the workshop topic. 
+<br /><br />
+To effectively showcase how your demo works, please include at least one of the following (or more if available):
+<ul style="padding-left: 20px;">
+  <li>A <b>demo video link</b> (maximum 10 minutes)</li>
+  <li>A <b>live demo URL</b> (if available)</li>
+  <li>A <b>link to the source code</b> (if accessible)</li>
+</ul>
+All demo proposals will be reviewed and evaluated by our technical committee based on relevance, innovation, and clarity. 
+<br /><br />
+One selected demo will be honored with the <b>Demo Award</b> and a featured <b>live presentation</b> during the main workshop program. Similar to the paper track, the accepted demos will be hosted on the workshop website, but the workshop remains non-archival.
+</p>
+
 
 <h2 class="blackpar_title">Important Dates:</h2>
 <p>
