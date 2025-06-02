@@ -356,17 +356,17 @@ We are currently welcoming sponsorship opportunities. If your organization is in
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/Huawei2.png" width="150px">
+			<img src="/images/Huawei2.png" width="130px">
 		</center>
 	</div>
     <div class="col">
 		<center>
-			<img src="/images/Apple-Logo.jpg" width="250px">
+			<img src="/images/Apple-Logo.jpg" width="300px">
 		</center>
 	</div>
 	<div class="col">
 		<center>
-			<img src="/images/Logo-Sanofi.png" width="200px">
+			<img src="/images/Logo-Sanofi.png" width="220px">
 		</center>
 	</div>
 	<div class="col">
